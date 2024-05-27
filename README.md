@@ -10,7 +10,7 @@ I am a skilled .NET software developer with expertise in C#, ASP.NET, MVC, WebAP
 * 🖥️  See my portfolio at [My Website](http://sagharmax.me)
 * ✉️  You can contact me at [sagharmax@outlook.com](mailto:sagharmax@outlook.com)
 * 🚀  I'm currently working on [ISETIA](http://isetia.com)
-* 🧠  I'm learning Python, Vue
+* 🧠  I'm learning Rust
 * ⚡  I am an avid reader and enjoy reading a wide range of books, from programming-related to novels and philosophy.
 
 ### Skills
