@@ -6,7 +6,7 @@ Software Developer
 
 I am a skilled .NET software developer with expertise in C#, ASP.NET, MVC, WebAPI, and Entity Framework. I have experience developing complex applications for various clients and am proficient in using Microsoft Visual Studio and other development tools. I am committed to delivering high-quality, reliable, secure, and scalable software solutions. I am constantly improving my skills to stay up-to-date with the latest advancements in the field.
 
-* 🌍  I'm based in Urmia
+* 🌍  I'm based in Warsaw, Poland
 * 🖥️  See my portfolio at [My Website](http://sagharmax.me)
 * ✉️  You can contact me at [sagharmax@outlook.com](mailto:sagharmax@outlook.com)
 * 🚀  I'm currently working on [ISETIA](http://isetia.com)
